@@ -1,4 +1,4 @@
-# Finding-cPanel-admin-of-Website
+# Finding-cPaneladminofWebsite
 This is made for Finding Control Panel of Website. This tools find easily websites admin/login. Please, don't misuse with this tools. Thanks
 
 ## How to use:
@@ -6,11 +6,11 @@ This is made for Finding Control Panel of Website. This tools find easily websit
 
 `pkg install git -y`
 
-`git clone https://github.com/palahsu/M.Bomb.git`
+`https://github.com/palahsu/Finding-cPaneladminofWebsite`
 
-`cd M.Bomb.py`
+`cd Finding-cPaneladminofWebsite`
 
-`python2 M.bomb.py`
+`python2 Findingadmin`
  
 # Note:
 This is in development. If you find any problems than please report me to my Telegram Group. To work properly in Android you have to Turn On Data and Please, Turn on your less secure option from Gmail. Don't use for revenge!
