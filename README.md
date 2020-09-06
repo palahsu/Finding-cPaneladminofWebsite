@@ -23,12 +23,19 @@ This is made for Finding Control Panel of Website. This tools find easily websit
 You must have Git and Python2 installed on your machine.
 
 `sudo apt install git python2`
+
 `sudo apt install python2 -m pip install tqdm`
+
 `sudo apt install python2 -m pip install colorama`
+
 `https://github.com/palahsu/Finding-cPaneladminofWebsite`
+
 `cd Finding-cPaneladminofWebsite`
+
 `python2 -m pip install -r administrator.txt`
+
 `ls`
+
 `python2 findingadmin.py`
 
 ## Compatible with:
