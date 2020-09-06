@@ -32,24 +32,24 @@ You must have Git and Python2 installed on your machine.
 `python2 findingadmin.py`
 
 ## Compatible with:
-Windows
-Termux
-MacOS
-Linux
+-Windows
+-Termux
+-MacOS
+-Linux
 
 ## Python version:
 Python2
 ## Python Modules:
-os
-requests
-urllib2
-urlopen
-URLError
-HTTPerror
-colorama
-tqdm
-trange
-fore
+-os
+-requests
+-urllib2
+-urlopen
+-URLError
+-HTTPerror
+-colorama
+-tqdm
+-trange
+-fore
 
 # @palahsu @Engine Ripper @AbirHasan2005
 For any kind of help, support, suggetion and request ask in my Telegram Group:
