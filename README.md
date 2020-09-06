@@ -2,26 +2,62 @@
 This is made for Finding Control Panel of Website. This tools find easily websites admin/login. Please, don't misuse with this tools. Thanks
 
 ## How to use:
+
+## Installation for Termux:
+
 `pkg install python2 -y`
 
 `pkg install git -y`
+
+`python2 -m pip install tqdm`
+
+`python2 -m pip install colorama`
 
 `https://github.com/palahsu/Finding-cPaneladminofWebsite`
 
 `cd Finding-cPaneladminofWebsite`
 
-`python2 Findingadmin`
- 
-# Note:
-This is in development. If you find any problems than please report me to my Telegram Group. To work properly in Android you have to Turn On Data and Please, Turn on your less secure option from Gmail. Don't use for revenge!
+`python2 findingadmin.py`
 
-# Legal disclaimer:
-It only works through Gmail, it does not identify the user as a spammer in any way, it is only designed to send multiple messages at once. It complies with Google's SMTP. We are not responsible for any abuse or damage caused by this program.
+## Installation for Linux:
+You must have Git and Python2 installed on your machine.
 
-# Modified by @Engine Ripper
+`sudo apt install git python2`
+`sudo apt install python2 -m pip install tqdm`
+`sudo apt install python2 -m pip install colorama`
+`https://github.com/palahsu/Finding-cPaneladminofWebsite`
+`cd Finding-cPaneladminofWebsite`
+`python2 -m pip install -r administrator.txt`
+`ls`
+`python2 findingadmin.py`
 
+## Compatible with:
+Windows
+Termux
+MacOS
+Linux
+
+## Python version:
+Python2
+## Python Modules:
+os
+requests
+urllib2
+urlopen
+URLError
+HTTPerror
+colorama
+tqdm
+trange
+fore
+
+# @palahsu @Engine Ripper @AbirHasan2005
 For any kind of help, support, suggetion and request ask in my Telegram Group:
 https://t.me/AD0000000
+http://t.me/linux_repo
+https://github.com/AbirHasan2005
+
+## For more help join Telegram Group: http://t.me/linux_repo
 
 ## Follow on:
 <p align="left">
