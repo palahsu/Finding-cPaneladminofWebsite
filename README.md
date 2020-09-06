@@ -41,6 +41,7 @@ You must have Git and Python2 installed on your machine.
 Python2
 ## Python Modules:
 -os
+
 -requests
 -urllib2
 -urlopen
