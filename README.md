@@ -1,6 +1,8 @@
 # Finding-cPaneladminofWebsite
 ## Finding-cPaneladminofWebsite
-This is made for Finding Control Panel of Website. This tools find easily websites admin/login. Please, don't misuse with this tools. Thanks
+This is made for Finding Control Panel of Website. This tools find easily websites (admin/login) URL Link. Please, don't misuse with this tools. Thanks.
+# Note
+You need to know the administrator password of the website, which sites you are finding for in the admin panels.
 
 ## How to use:
 
